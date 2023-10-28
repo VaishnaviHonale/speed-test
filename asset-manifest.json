@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/speed-test/static/css/main.91551936.css",
+    "main.js": "/speed-test/static/js/main.75416ba3.js",
+    "index.html": "/speed-test/index.html",
+    "main.91551936.css.map": "/speed-test/static/css/main.91551936.css.map",
+    "main.75416ba3.js.map": "/speed-test/static/js/main.75416ba3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91551936.css",
+    "static/js/main.75416ba3.js"
+  ]
+}
